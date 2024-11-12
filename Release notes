@@ -1,0 +1,32 @@
+Release Notes - Bird Observation App
+
+Version 1.0 - Full Release
+
+New Features
+
+Updated Logo
+
+A refreshed and modernized logo that captures the essence of bird observation, creating a visually engaging app identity.
+Google Maps API Integration
+
+Seamlessly integrated Google Maps, allowing users to view bird sightings on a dynamic map. This feature provides accurate location-based data to enhance the birdwatching experience.
+eBird API Integration
+
+Added eBird API to pull data on recent bird observations, providing users with real-time, community-driven information on bird sightings in their area.
+Miles to Kilometers Toggle
+
+A convenient toggle button added for users to switch between miles and kilometers for distance measurements, accommodating both metric and imperial preferences.
+Map Observations
+
+Users can now log their bird sightings directly on the map, making it easier to track and visualize observation data on a spatial interface.
+Improvements
+
+UI Navigation Enhancements
+
+Improved the app’s navigation structure to ensure a smoother and more intuitive user experience. This includes better-organized menus and faster access to key features.
+Database Fixes
+
+Resolved several issues related to data storage and retrieval, enhancing data integrity and reliability for users when logging their bird observations.
+New Gallery Page for Birds
+
+Added a dedicated gallery page where users can upload and view photos of birds, creating a personalized visual archive of their observations.
