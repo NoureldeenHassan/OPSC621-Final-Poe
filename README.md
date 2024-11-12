@@ -15,10 +15,10 @@ This is designed for bird enthusiasts to record and share their bird sightings. 
 
 Map:
 
-The map shows a portion of Southern Africa, with South Africa prominently displayed.
-A red pin marks the location of the bird sighting.
-A blue line appears to indicate the route taken to reach that location.
-Distance:
+- **The map shows a portion of Southern Africa, with South Africa prominently displayed.
+- **A red pin marks the location of the bird sighting.
+- **A blue line appears to indicate the route taken to reach that location.
+- **Distance:
 
 The text "Distance: 380.10 miles" is displayed near the top of the screen. This  represents the distance traveled to reach the sighting location.
 
@@ -28,10 +28,10 @@ The text "Distance: 380.10 miles" is displayed near the top of the screen. This 
 
 Bird Images:
 
-The screen displays two bird images:
-First Image: A gray bird perched on a branch, labeled as "forest bird" with the description "amazon rainforest."
-Second Image: A colorful bird with a blue head and yellow body, labeled as "rainbow bird."
-"Select Image from Gallery" Button:
+- **The screen displays two bird images:
+- **First Image: A gray bird perched on a branch, labeled as "forest bird" with the description "amazon rainforest."
+- **Second Image: A colorful bird with a blue head and yellow body, labeled as "rainbow bird."
+- **Select Image from Gallery" Button:
 
 This button allows the user to choose an image from their device's gallery to add to the app.
 
@@ -42,8 +42,8 @@ This button allows the user to choose an image from their device's gallery to ad
 </p>
 
 
- Remove from fav" Button:
-This button allows the user to remove the sighting from their list of favorites.
+Remove from fav" Button:
+- **This button allows the user to remove the sighting from their list of favorites.
 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/966dd533-c3a9-4925-bdad-6fbdd6842593" alt="Screenshot of E Bird App 4" width="300">
