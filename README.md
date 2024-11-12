@@ -7,4 +7,4 @@ Details: Provides information about each sighting, including the bird's name, lo
 Favorites: Allows users to mark sightings as favorites for easy reference.
 Navigation: Offers a bottom navigation bar with options for viewing birds, the gallery, favorites, and settings.
 
-![Screenshot_20241111_214255_E Bird](https://github.com/user-attachments/assets/3be2c2ae-c110-4a6a-97ea-920c73a6fb5b)
+![Screenshot_20241111_214255_E Bird](https://github.com/user-attachments/assets/3be2c2ae-c110-4a6a-97ea-920c73a6fb5b width=100)
