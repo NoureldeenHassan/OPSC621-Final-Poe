@@ -1,4 +1,6 @@
-Overview
+<p align="center">
+ Overview
+</p>
 
 This is designed for bird enthusiasts to record and share their bird sightings. It has a clean and user-friendly interface with the following key features:
 
@@ -33,7 +35,23 @@ Second Image: A colorful bird with a blue head and yellow body, labeled as "rain
 
 This button allows the user to choose an image from their device's gallery to add to the app.
 
+
+
 <p align="center">
  <img src="https://github.com/user-attachments/assets/38e39f34-5649-47e5-9b9d-5d5e4b2e1079" alt="Screenshot of E Bird App 3" width="300">
 </p>
+
+
+ Remove from fav" Button:
+This button allows the user to remove the sighting from their list of favorites.
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/966dd533-c3a9-4925-bdad-6fbdd6842593" alt="Screenshot of E Bird App 4" width="300">
+</p>
+
+<p align="center">
+ 
+</p>
+
+
 
